@@ -1,0 +1,33 @@
+{
+    "Stock": [
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft",
+            "shares": 150.0,
+            "DataList": [
+                {
+                    "date": "2/10/22",
+                    "close": 159.23,
+                    "volume": 25687.0
+                },
+                {
+                    "date": "2/11/22",
+                    "close": 163.19,
+                    "volume": 28885.0
+                }
+            ]
+        },
+        {
+            "symbol": "TSLA",
+            "name": "Tesla",
+            "shares": 25.0,
+            "DataList": []
+        },
+        {
+            "symbol": "AAPL",
+            "name": "Apple",
+            "shares": 90.0,
+            "DataList": []
+        }
+    ]
+}
